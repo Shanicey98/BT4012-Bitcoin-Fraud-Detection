@@ -1,0 +1,17 @@
+# Competition data
+data/
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# OS
+.DS_Store
+
+# Submission
+submissions/
